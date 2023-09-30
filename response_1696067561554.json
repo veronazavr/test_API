@@ -1,0 +1,207 @@
+{
+  "count": 59,
+  "next": "http://91.210.171.73:8080/api/pet/?limit=20&offset=21",
+  "previous": "http://91.210.171.73:8080/api/pet/?limit=20",
+  "results": [
+    {
+      "id": 182,
+      "name": "p_bc8ac9e1271d45ea83e1c50cf1a3f0ef",
+      "photo_url": "photo_url",
+      "category": {
+        "id": 438,
+        "name": "c_a8b8d2da2fb34c90b17837b00f4858f0"
+      },
+      "status": "available"
+    },
+    {
+      "id": 224,
+      "name": "LAZFVkvvrZsLMlciEBXkfPfLHgQrjqkkQTxdIcrECFzyyZCOlRxoWwPThrLILUELsdAbjUsARyGpcPrXFNfKDMPJqTijRjHFGpKMRnjTsXxqLRkoOXVkWOfNoAjORwAQRmHGNRsnZeBmlGHKouDykh",
+      "photo_url": "y",
+      "category": {
+        "id": 314,
+        "name": "s"
+      },
+      "status": "pending"
+    },
+    {
+      "id": 241,
+      "name": "z",
+      "photo_url": "dlaLgdDhImfVBWTYRdZKXMfeZJvFaRZCQpevKfbBIJJRvEZSiBNLQnscVicsUFiVYjTFXlxGcVlBdjtrMBTvEBkxjknqvCYKKIckfeGOawsEWcwfhHjNQrqsyzwSCyWqLMGLFUxOqkfvQBPlJiofOG",
+      "category": {
+        "id": 339,
+        "name": "test-name-dc088a8e82874c9eaaff9577fe9dcbed"
+      },
+      "status": "available"
+    },
+    {
+      "id": 243,
+      "name": "WngfMiIYHZfRyDedoPtuBGEWvgcWThmMAxoekggoTxdDwfZbWGPOczZPsorAGvZXgXtWqzpZYkKMeZAikTIGvvPZrDzsMHzGkBbqsoMQKvbPbQybmWJNbcAMihGWWfLriznIorXzneBfSLIMRipcCJ",
+      "photo_url": "M",
+      "category": {
+        "id": 261,
+        "name": "parrott"
+      },
+      "status": "pending"
+    },
+    {
+      "id": 244,
+      "name": "nQLlOzKCqFgpCkmrEWGcVnfwzWkjxSVbEwMsTkxadSwEKGJZMXBdkQysIfxAnbTfMtgWHUPJkpyIYWRiyGBEIRTxXzWxtAHEvQKHZKlqMNkGsiRVGzVAjxuXBaJooamuYLYhXlKqcvjZcbUzgzENpm",
+      "photo_url": "fwgZPVkWNITuMHr",
+      "category": {
+        "id": 510,
+        "name": "string"
+      },
+      "status": "available"
+    },
+    {
+      "id": 245,
+      "name": "dJhUkusv",
+      "photo_url": "hlxwvluKzZIpVzI",
+      "category": {
+        "id": 479,
+        "name": "dogs"
+      },
+      "status": "sold"
+    },
+    {
+      "id": 246,
+      "name": "SnieNgRAWFZFijGYeAGZGBprQBpdGWuETZKbnMuRDZzUqzsUxqAlFqiIfWvNKlKwLHwYaKgCKZvXOvfxlOhKEBCbkokTSKzABhnNfoLUjFFfiZyileunslTLlYSGbhvyJUTvvDnxTSGjYuwWcpNYXK",
+      "photo_url": "b",
+      "category": {
+        "id": 589,
+        "name": "CneOJYHOxIloYQarsyhqUOUuJktSwgTdVMewXkgCOCuBMDRcLYKtkFXpZgzOemGxmamoJABCcSqdWefMzdMUCgLOKAvPnxHnMnmpZORkEfVeNGDncsTWGzwClFzpCAebXfGGgrMfMYpmmcARLXARHe"
+      },
+      "status": "pending"
+    },
+    {
+      "id": 247,
+      "name": "DeeEk",
+      "photo_url": "IngSpFnxmHPSjJeEsRRiihiztXhbeF",
+      "category": {
+        "id": 260,
+        "name": "guNzWFXmVonXxSrcBQQHUGadEuiKZThijmcuJoBiRUvQuBAQbvNPqivspDnDdQPZwqYUwHFQtItPCywdgPqvKQyNOsnIUZLRojfjcMtFrEsosljofKqEwyKmNnXiemfmXWJbDoPxrtzYggrMMBWOfa"
+      },
+      "status": "sold"
+    },
+    {
+      "id": 248,
+      "name": "uMMVtuBM",
+      "photo_url": "WGFvZlkSiyWvpRn",
+      "category": {
+        "id": 545,
+        "name": "kgJAJqwvkUpKjkzSQvSPSwUEHlmwsRMtVHoHponhzqXpNryaUtOeiLRmyKBozDckvZHOQwmtPVEsSrJZtgRLHHvyBLdRibQPwRlNAKaHMYsjpbvJrQTTEdsQFEQucfrQCbaqLMUcWBXamRkrApAWfm"
+      },
+      "status": "sold"
+    },
+    {
+      "id": 249,
+      "name": "kGjMmSjLXrsxgihmTWCNPPLTcBZJpEGELiZMPcjWcklJdIRzSdWXIGNqPGCEvptDPGhmFcbPXDblVAChNTAQlLmytRZErUvytYngMDxLoyXVBLIabmycnaYtkEfengRgJjoypGYulApkgrylZzmycB",
+      "photo_url": "O",
+      "category": {
+        "id": 339,
+        "name": "test-name-dc088a8e82874c9eaaff9577fe9dcbed"
+      },
+      "status": "pending"
+    },
+    {
+      "id": 250,
+      "name": "yKfZbEknulkolsfGpZQIbGUQrkLAgLGsOmsCUEbdZMeLVswZDrRlSaFsIBcZmccVxJnhsTrTGGlOFPSihrpzvqIzQFBsyUbgbZQsVZrzvbqmLBaUSKbzhIuBuBKwInXoqQeJHZlyfHuGPhrlnnfQUC",
+      "photo_url": "T",
+      "category": {
+        "id": 521,
+        "name": "9f28de"
+      },
+      "status": "pending"
+    },
+    {
+      "id": 251,
+      "name": "G",
+      "photo_url": "lJRUEPewrkakAuEkpbYzMgUOYrqMoUhSgHanLWsPiTUFkuGlFBzbRoZWzsaQQMXqszuftnBhWVuvIBJqsARDOBEIVGGklejdWAlevkYZqmeAjPrfpiXiwJyvcQUEZemGsWnOtHVGKniVNRpvqVttuw",
+      "category": {
+        "id": 368,
+        "name": "M"
+      },
+      "status": "available"
+    },
+    {
+      "id": 252,
+      "name": "hIuoOdGAGepcyrLWzmWCRNxbekDqmTxhBjtpDXZqJmDJekjFszyasQFxMvOrllrcpBWzAxTAndmDoDJzDjmcwXXLGUkUTcBpsJekFRzOhqyZRtLJcKbeFfUQVTXILUyyiopWtTRkNaNUCbbaffoGJc",
+      "photo_url": "q",
+      "category": {
+        "id": 537,
+        "name": "xxx"
+      },
+      "status": "pending"
+    },
+    {
+      "id": 253,
+      "name": "ZVqUW",
+      "photo_url": "AOJRaDkBHhdBOiYewTaHCuahRMQLEI",
+      "category": {
+        "id": 330,
+        "name": "test-name-9b9e56bdaa9c4c9ab06842d64346ffbd"
+      },
+      "status": "sold"
+    },
+    {
+      "id": 255,
+      "name": "string",
+      "photo_url": "string",
+      "category": {
+        "id": 636,
+        "name": "Cow22"
+      },
+      "status": "available"
+    },
+    {
+      "id": 256,
+      "name": "KYMBbhoO",
+      "photo_url": "YRGXAiTpnXScnPf",
+      "category": {
+        "id": 577,
+        "name": "Otxui"
+      },
+      "status": "sold"
+    },
+    {
+      "id": 257,
+      "name": "QJRYIlxCZpwokRNLUQseFjGkgQqAHKWmrSTQqQWhBBDyNNwppTsMpZjFZHjbxtEHjAQpYBVgNyHEXNuemwKeiOtCnALvjSMkBaIOZIsxSfkKwtLPhpjDIaDDqpQHXcRnUsCglAgbnLBczpgeHmGjNm",
+      "photo_url": "l",
+      "category": {
+        "id": 433,
+        "name": "Кошка13542"
+      },
+      "status": "pending"
+    },
+    {
+      "id": 258,
+      "name": "jzEZyFInLhsBUzYACHXJYkDpDJXDMjXmodNSmQVhTmYXDqaUTnrsVyRRLpwtReeiheggEVaoUbcMIMXtPfHxWhoExBtnDVwYlUVpdAvbUkymyFnEnvIHjByKEKzbocAirRCehCavTkvQxfaXwpEgp",
+      "photo_url": "OVcyUpzOxqDeRpj",
+      "category": {
+        "id": 305,
+        "name": "eiQHC"
+      },
+      "status": "available"
+    },
+    {
+      "id": 259,
+      "name": "laky",
+      "photo_url": "photo_url",
+      "category": {
+        "id": 436,
+        "name": "кошка"
+      },
+      "status": "available"
+    },
+    {
+      "id": 260,
+      "name": "Тундра",
+      "photo_url": "photo_url",
+      "category": {
+        "id": 436,
+        "name": "кошка"
+      },
+      "status": "available"
+    }
+  ]
+}

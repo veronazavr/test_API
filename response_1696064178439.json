@@ -1,0 +1,47 @@
+{
+  "count": 292,
+  "next": "http://91.210.171.73:8080/api/category/?limit=10&offset=10",
+  "previous": null,
+  "results": [
+    {
+      "id": 244,
+      "name": "wFZShKdHAPtjsZqwLXchbHuejiAGROpRZtgMHtCqRHRKTutBSOuAlJOUIFxevQZedlJLUPRsqcfqlitYAzFQJOkWnPtOSWgKIMMAiQbeNsVnHzaxpNhmANHJZpiYTjEiejiUQVFsoVsSLwFdlXDVNl"
+    },
+    {
+      "id": 247,
+      "name": "u"
+    },
+    {
+      "id": 252,
+      "name": "dxlOVYAVhJIPabrRwOpPGzlSDQvjYxNLgBRnDgzivsYBowGisCaSmyYtlTAhMjYbwNCHIzuIWaPKcDTcLINgnqpJyuIhlzvRotvIAWkFoIJzVydkDgepGWnyqlbtriKwayieOxkOqdNusIeOwAKjai"
+    },
+    {
+      "id": 253,
+      "name": "QCXscucizOaOaMvWSldEbWNiGrXPlANmmWNdieaBsWJPDJxWTcfqyAmAOCJaxMNhuppTdmtcIATQnQBqtweQUAIqOCyerJXLCDdWfptJqpGTHmQumkgUUStdiaIopJqwSURokOfPrgakzVyrzlBBHN"
+    },
+    {
+      "id": 259,
+      "name": "test-name-ebe29a7c69e24921b7389b7297838d54"
+    },
+    {
+      "id": 260,
+      "name": "guNzWFXmVonXxSrcBQQHUGadEuiKZThijmcuJoBiRUvQuBAQbvNPqivspDnDdQPZwqYUwHFQtItPCywdgPqvKQyNOsnIUZLRojfjcMtFrEsosljofKqEwyKmNnXiemfmXWJbDoPxrtzYggrMMBWOfa"
+    },
+    {
+      "id": 261,
+      "name": "parrott"
+    },
+    {
+      "id": 262,
+      "name": "eVPul"
+    },
+    {
+      "id": 263,
+      "name": "test-name-3669b27c0a984a36956b6db575d135f8"
+    },
+    {
+      "id": 264,
+      "name": "test-name-a2084d0eb9a3490aa9871b902cbba523"
+    }
+  ]
+}
